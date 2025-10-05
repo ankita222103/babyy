@@ -194,7 +194,7 @@ main {
     position: absolute;
     bottom: 10vh;
     left: 40vw;
-    z-index: 30;
+    z-index: 60;
 }
 
 .aa {
@@ -247,6 +247,7 @@ main {
     }
     to {
         opacity: 1;
-        transform: translateY(-9vh);
+        transform: translateY(-6vh);
     }
+
 }
